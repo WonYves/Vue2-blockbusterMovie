@@ -1,0 +1,19 @@
+{
+    "banner": [
+      {
+        "id": 1,
+        "imgUrl": "https://img0.baidu.com/it/u=2984796847,2780386589&fm=253&fmt=auto&app=138&f=JPEG?w=847&h=500",
+        "title": "小公主艾薇拉与神秘王国2"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://img1.baidu.com/it/u=4053854958,3940382052&fm=253&fmt=auto&app=138&f=JPEG?w=640&h=378",
+        "title": "我的初恋十八岁"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://img2.baidu.com/it/u=2770160537,1419479824&fm=253&fmt=auto&app=138&f=JPEG?w=847&h=500",
+        "title": "天煞劫"
+      }
+    ]
+}
