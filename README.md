@@ -1,24 +1,16 @@
-# attention2
+# 使用Vue2 的卖座电影 移动端APP
 
-## Project setup
-```
-npm install
-```
+## 技术栈
+·vue-cli
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+·vue-router vuex
 
-### Compiles and minifies for production
-```
-npm run build
-```
+·Scss (css预处理语言)
 
-### Lints and fixes files
-```
-npm run lint
-```
+·Vant
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+·Swiper
+
+·Batter Scroll
+
+·iconfont
