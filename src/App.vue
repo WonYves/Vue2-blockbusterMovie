@@ -41,7 +41,7 @@ ul{
 body{
   font-size: 20px;
 }
-section{
-  padding-bottom: 2.45rem;
-}
+// section{
+//   padding-bottom: 2.45rem;
+// }
 </style>

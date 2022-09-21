@@ -5,6 +5,7 @@ import Nowplaying from "@/views/films/Nowplaying";
 import Comingsoon from "@/views/films/Comingsoon";
 import Cinemas from "@/views/Cinemas";
 import City from "@/views/City";
+import Login from "@/views/Login";
 
 
 Vue.use(VueRouter); // 注册路由插件, 两个全局 router-view router-link
@@ -65,15 +66,52 @@ const routes = [
     // }
   },
   {
-    path: "/order",
-    component: () => import("@/views/Order"),
-    meta: {
-      isKerwinRequired: true,
-    },
+    path:"/center1",
+    component:() => import("@/components/center/Center1")
+  },
+  {
+    path:"/center2",
+    component:() => import("@/components/center/Center2")
+  },
+  {
+    path:"/center3",
+    component:() => import("@/components/center/Center3")
+  },
+  {
+    path:"/center4",
+    component:() => import("@/components/center/Center4")
+  },
+  {
+    path:"/center5",
+    component:() => import("@/components/center/Center5")
+  },
+  {
+    path:"/center6",
+    component:() => import("@/components/center/Center6")
+  },
+  {
+    path:"/center7",
+    component:() => import("@/components/center/Center7")
+  },
+  {
+    path:"/center8",
+    component:() => import("@/components/center/Center8")
+  },
+  {
+    path:"/center9",
+    component:() => import("@/components/center/Center9")
+  },
+  {
+    path:"/center10",
+    component:() => import("@/components/center/Center10")
+  },
+  {
+    path:"/center11",
+    component:() => import("@/components/center/Center11")
   },
   {
     path: "/login",
-    component: () => import("@/views/Login"), 
+    component:Login, 
   },
   // 重定向
   {

@@ -93,8 +93,6 @@ export default {
         this.$store.commit('changeCityName',item.name)
         this.$store.commit('changeCityId',item.cityId)
         this.$router.back()
-
-
     }
   },
 };

@@ -119,10 +119,10 @@ export default {
       float: left;
     }
     .title {
-      font-size: 0.8rem;
+      font-size: 16px;
     }
     .content {
-      font-size: 0.65rem;
+      font-size: 13px;
       color: #293047;
       .score span {
         color: gold;
