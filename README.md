@@ -15,7 +15,40 @@
 
 ·iconfont
 
-## src/assets/jpeg 中放了许多精美壁纸  纯个人爱好
+## 项目结构
+src
+├─ App.vue
+├─ assets
+├─ components
+│	├─ Tabbar.vue 底部导航栏
+│	├─ center  我的-页面放置许多壁纸
+│	├─ detail
+│	│	├─ DetailHeader.vue   详情下拉粘性返回菜单
+│	│	├─ DetailSwiper.vue   详情页轮播
+│	│	└─ DetailSwiperItem.vue 详情页轮播
+│	└─ films
+│	 	├─ FilmHeader.vue 正在热映+即将上线 切换高亮
+│	 	├─ FilmSwiper.vue 主页轮播
+│	 	└─ FilmSwiperItem.vue 主页轮播
+├─ main.js  程序入口文件,是初始化vue实例并使用需要的插件,加载各种公共组件
+├─ router 
+│	└─ index.js  配置路由
+├─ store
+│	└─ index.js vuex状态共享管理
+├─ util
+│	├─ http.js 封装axios请求以及axios拦截器Loading加载组件
+│	└─ mixinobj.js  封装的混入(mixins) 调用来 使底部tabbar导航栏切换时消失
+└─ views 
+ 	├─ Center.vue 我的-页面
+ 	├─ Cinemas.vue 影院-页面
+ 	├─ City.vue 城市-页面
+ 	├─ Detail.vue 详情-页面
+ 	├─ Films.vue 首页
+ 	├─ Login.vue 登录-页面
+ 	├─ Search.vue 搜索-页面
+ 	└─ films
+ 	 	├─ Comingsoon.vue 我的-即将上映
+ 	 	└─ Nowplaying.vue 我的-正在热映
 ## 以下为项目展示：
  ![$DB9QOELZHY~GT~J``YWP 9](https://user-images.githubusercontent.com/113281531/191504746-7d8ca723-bf02-442e-bba9-321901cde205.png)
 
