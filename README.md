@@ -1,19 +1,23 @@
-# 使用Vue2构建的的复刻版卖座电影 移动端APP
+# Vue2构建的的复刻版 - 卖座Movie 
 
-## 技术栈
-·vue-cli
+从原网站获取数据 纯个人娱乐 无商业用途
 
-·vue-router vuex
+## vue2-技术栈
+axios
 
-·Scss (css预处理语言)
+vue-cli
 
-·Vant
+vue-router vuex
 
-·Swiper
+Scss (css预处理语言)
 
-·Batter Scroll
+Vant
 
-·iconfont
+Swiper
+
+Batter Scroll
+
+iconfont
 
 ## 项目结构
 src 
