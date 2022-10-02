@@ -64,7 +64,7 @@ src
 
 │	└─ mixinobj.js  封装的混入(mixins) 调用来 使底部tabbar导航栏切换时消失
 
-└─ views 
+└─ views   组件
 
  	├─ Center.vue 我的-页面
   
@@ -87,8 +87,7 @@ src
  	 	└─ Nowplaying.vue 我的-正在热映
     
 ## 以下为项目展示：
- ![$DB9QOELZHY~GT~J``YWP 9](https://user-images.githubusercontent.com/113281531/191504746-7d8ca723-bf02-442e-bba9-321901cde205.png)
-
+![$DB9QOELZHY~GT~J``YWP 9](https://user-images.githubusercontent.com/113281531/191504746-7d8ca723-bf02-442e-bba9-321901cde205.png)
 
 ![JV8F94) TWLJ6 I7TWN`NH](https://user-images.githubusercontent.com/113281531/191500580-35ed83a1-4c73-4866-8d20-deb41781257c.png)
 
