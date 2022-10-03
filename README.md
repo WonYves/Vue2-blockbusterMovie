@@ -9,7 +9,7 @@ vue-cli
 
 vue-router vuex
 
-Scss (css预处理语言)
+Scss
 
 Vant
 
