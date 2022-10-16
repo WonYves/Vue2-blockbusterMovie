@@ -20,7 +20,7 @@ Batter Scroll
 iconfont
 
 ## 项目结构
-└─src 
+└─ src 
 
 ├─ App.vue
 
