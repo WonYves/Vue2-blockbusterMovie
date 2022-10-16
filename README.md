@@ -20,7 +20,7 @@ Batter Scroll
 iconfont
 
 ## 项目结构
-src 
+└─src 
 
 ├─ App.vue
 
@@ -86,7 +86,7 @@ src
     
  	 	└─ Nowplaying.vue 我的-正在热映
     
-## 以下为项目展示：
+## 效果展示：
 ![$DB9QOELZHY~GT~J``YWP 9](https://user-images.githubusercontent.com/113281531/191504746-7d8ca723-bf02-442e-bba9-321901cde205.png)
 
 ![JV8F94) TWLJ6 I7TWN`NH](https://user-images.githubusercontent.com/113281531/191500580-35ed83a1-4c73-4866-8d20-deb41781257c.png)
