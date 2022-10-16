@@ -1,24 +1,37 @@
 # Vue2构建的的复刻版 - 卖座电影
 
-从原网站获取数据 纯个人娱乐 无商业用途
+从原网站 卖座电影 获取数据 
+纯个人娱乐 无商业用途
 
-## vue2-技术栈
-axios
+## 技术栈
+axios 以及axios请求拦截器(请求数据时触发loading加载框)
 
-vue-cli
+vue-cli  (vue2脚手架)
 
-vue-router vuex
+vue-router vuex  (Vue相关生态 路由和状态管理)
 
-Scss
+Scss (css预处理语言)
+ 
+Vant  (轻量、可靠的移动端 Vue 组件库)
 
-Vant
+Swiper (轮播图组件库)
 
-Swiper
+Batter Scroll (优化移动端滚动)
 
-Batter Scroll
+iconfont (图标)
 
-iconfont
+...
 
+## 功能
+影片展示
+
+影片详情预览
+
+影院搜索
+
+切换城市
+
+数据懒加载
 ## 项目结构
 └─ src 
 
