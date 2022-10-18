@@ -4,6 +4,7 @@
 纯个人娱乐 无商业用途
 
 ## 技术栈
+```
 axios 以及axios请求拦截器(请求数据时触发loading加载框)
 
 vue-cli  (vue2脚手架)
@@ -21,8 +22,10 @@ Batter Scroll (优化移动端滚动)
 iconfont (图标)
 
 ...
+```
 
 ## 功能
+```
 影片展示
 
 影片详情预览
@@ -32,7 +35,9 @@ iconfont (图标)
 切换城市
 
 数据懒加载
+```
 ## 项目结构
+```
 └─ src 
 
 ├─ App.vue
@@ -98,6 +103,7 @@ iconfont (图标)
  	 	├─ Comingsoon.vue 我的-即将上映
     
  	 	└─ Nowplaying.vue 我的-正在热映
+```
     
 ## 效果展示：
 ![$DB9QOELZHY~GT~J``YWP 9](https://user-images.githubusercontent.com/113281531/191504746-7d8ca723-bf02-442e-bba9-321901cde205.png)
